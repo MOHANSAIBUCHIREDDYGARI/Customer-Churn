@@ -20,6 +20,4 @@ A machine-learning powered churn prediction web application where users upload a
 - Scikit-Learn
 - Pandas / NumPy / Seaborn / Matplotlib
 
-## 🧠 How to Run Locally
 
-### 1. Clone the repository
