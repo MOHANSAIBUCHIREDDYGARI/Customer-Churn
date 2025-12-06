@@ -1,4 +1,5 @@
-pip==24.0
+# requirements.txt
+--no-deps
 streamlit==1.28.0
 pandas==2.0.3
 numpy==1.24.3
